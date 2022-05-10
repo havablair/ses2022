@@ -1,0 +1,27 @@
+---
+title: "Abstract for Soil Ecology Society Conference 2022"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Title 
+
+Pedoclimatic factors, not management, drive microbial community composition and activity in Upper Midwest agricultural ecosystems 
+
+## Authors  
+
+Hava Blair^^1 ; Anna Cates^^1 ; Nic Jelinski^^1 ; A. Marcelle Lewandowski^^2 ; Jessica Gutknecht^^1  
+
+## Affiliations 
+
+1. University of Minnesota - Twin Cities, Department of Soil, Water, and Climate, St. Paul, MN 55108  
+2. University of Minnesota - Twin Cities, Water Resources Center, St. Paul, MN 55108 
+
+## Category 
+
+Agricultural ecosystems 
+
+## Abstract 
+
+Measurements of soil microbial community structure and activity have been proposed as potentially sensitive indicators of soil health in agricultural ecosystems. One challenge to the application of these measurements for decision-making is that soil, environmental, and cropping system variables interact to drive changes in microbial communities, making interpretation highly context-specific. Our objective was to quantify the relative contributions of management, soil, landscape, and local climate factors in driving microbial community and activity changes on working farms with contrasting management practices in Minnesota, USA. We collected soil samples at 15 paired sites (30 fields) on working farms located across 4 agricultural regions of Minnesota with varied soil, topographic, and local climate conditions. Samples were collected from erosional and depositional hillslope positions in each field. Site pairs were selected to maximize the contrast in management (>5 years) in terms of tillage disturbance, use of cover crops, and rotational diversity. To characterize microbial community structure and function, we measured phospholipid fatty acid (PLFA) profiles and soil extracellular enzyme activities (EEA) including B-glucosidase, cellobiohydrolase, N-acetyl-B-D-glucosaminidase, and acid/alkaline phosphatase. Overall, region, landscape, soil texture, and pH were significant drivers of observed changes and the effect of management was not detected. EEA varied by region and hillslope position, with significantly higher activities observed in SE MN and at lower hillslope positions. Soil organic matter and clay were significant drivers of PLFA composition, with significant differences observed by region, hillslope, and the interaction of region and hillslope (PERMANOVA P<0.05). 
